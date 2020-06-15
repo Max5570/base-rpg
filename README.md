@@ -3,4 +3,4 @@
 The repository stores the basic mechanics of the game in the rpg genre.
 
 
-You could 
+You can download zipfile of project here.
